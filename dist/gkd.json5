@@ -1,7 +1,7 @@
 {
   "id": 233,
   "name": "DingCouqui-订阅",
-  "version": 1,
+  "version": 2,
   "author": "DingCouqui (base: gkd-kit/subscription v186)",
   "updateUrl": "https://raw.githubusercontent.com/DingCouqui/GKD_config/main/dist/gkd.json5",
   "supportUri": "https://github.com/DingCouqui/GKD_config",
