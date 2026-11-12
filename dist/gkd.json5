@@ -1,7 +1,7 @@
 {
   "id": 233,
   "name": "DingCouqui-订阅",
-  "version": 3,
+  "version": 5,
   "author": "DingCouqui (base: gkd-kit/subscription v186)",
   "updateUrl": "https://raw.githubusercontent.com/DingCouqui/GKD_config/main/dist/gkd.json5",
   "supportUri": "https://github.com/DingCouqui/GKD_config",
@@ -36511,8 +36511,7 @@
               "key": 0,
               "name": "点广告卡右上角X",
               "matches": [
-                "[text$=\"的广告\"] - @[childCount=0][width<150]",
-                "[text$=\"的广告\"] - @[childCount=0]"
+                "[text$=\"的广告\"] - @[childCount=0][width<120][height<120][clickable=false]"
               ]
             }
           ],
