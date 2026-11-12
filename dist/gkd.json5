@@ -1,7 +1,7 @@
 {
   "id": 233,
   "name": "DingCouqui-订阅",
-  "version": 5,
+  "version": 6,
   "author": "DingCouqui (base: gkd-kit/subscription v186)",
   "updateUrl": "https://raw.githubusercontent.com/DingCouqui/GKD_config/main/dist/gkd.json5",
   "supportUri": "https://github.com/DingCouqui/GKD_config",
@@ -36515,7 +36515,8 @@
               ]
             }
           ],
-          "enable": true
+          "enable": false,
+          "desc": "暂不启用：知乎用自定义 View 处理触摸，X 图形偏离节点中心约 30px，GKD 中心点击会落到视频面导致跳转"
         }
       ]
     },
